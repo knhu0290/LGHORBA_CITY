@@ -164,17 +164,6 @@ body {
     transform: rotate(45deg);
 }
 
-.home .rhombus2 {
-    position: absolute;
-    top: -25%;
-    right: -25%;
-    width: 450px;
-    height: 400px;
-    background: #1743e3;
-    transform: rotate(45deg);
-    z-index: -1;
-}
-
 .signature {
     position: absolute;
     bottom: 10px;
