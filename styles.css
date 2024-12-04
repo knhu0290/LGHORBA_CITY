@@ -75,12 +75,12 @@ body {
 }
 
 .social-media a:hover {
-    border-color: #1743e3;
+    border-color: #fa670c;
 }
 
 .social-media a i {
     font-size: 24px;
-    color: #1743e3;
+    color: #c15a1b;
     transform: rotate(-45deg);
 }
 
